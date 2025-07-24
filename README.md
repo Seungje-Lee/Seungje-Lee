@@ -7,13 +7,13 @@
 - Korean Augmentation to the United States Army, 2023-2025
   
 # <h2>Using Language & Tech Stacks</h2>
-<div>
-  <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/-css-663399?style=flat&logo=CSS&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/-cplusplus-#00599C?style=flat&logo=C++&logoColor=white"/>      
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=React&logoColor=white"/>  
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
 # <h2>PS status</h2>
