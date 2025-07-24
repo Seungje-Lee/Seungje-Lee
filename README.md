@@ -8,12 +8,12 @@
   
 # <h2>Using Language & Tech Stacks</h2>
 <div>
-  <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=Python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/-css-663399?style=flat&logo=Python&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/-cplusplus-00599C?style=flat&logo=Python&logoColor=white"/>      
+  <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=HTML5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-css-663399?style=flat&logo=CSS&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/-cplusplus-#00599C?style=flat&logo=C++&logoColor=white"/>      
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=Python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-react-61DAFB?style=flat&logo=React&logoColor=white"/>  
 </div>
 
 # <h2>PS status</h2>
