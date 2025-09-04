@@ -1,12 +1,22 @@
 # About me
 
+Welcome to my GitHub!
+
+I'm Seungje Lee, a lifelong learner passionate about continuous growth.
+
+I'm especially interested in frontend development, a dynamic field that challenges me to constantly improve.
+
+I enjoy identifying real-world problems and using technology to build solutions that enhance user experiences.
+
+I've improved the subscription notification service for ApplyHome (청약홈) and developed a more intuitive MTS (Mobile Trading System) frame by analyzing and comparing different securities apps to enhance their UI/UX.
+
 # <h2>Education<h2>
 - Sejong Science High School, 2019 - 2021
 - Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
   - Minor in Computer Science, 2023 - present
 - Korean Augmentation to the United States Army, 2023-2025
   
-# <h2>Using Language & Tech Stacks</h2>
+# <h2>Tech Stacks</h2>
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
