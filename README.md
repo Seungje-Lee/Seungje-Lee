@@ -10,13 +10,13 @@ I enjoy identifying real-world problems and using technology to build solutions 
 
 I've improved the subscription notification service for ApplyHome (청약홈) and developed a more intuitive MTS (Mobile Trading System) frame by analyzing and comparing different securities apps to enhance their UI/UX.
 
-# <h2>Education<h2>
+# Education
 - Sejong Science High School, 2019 - 2021
 - Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
   - Minor in Computer Science, 2023 - present
 - Korean Augmentation to the United States Army, 2023-2025
   
-# <h2>Tech Stacks</h2>
+# Tech Stacks
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
@@ -30,10 +30,10 @@ I've improved the subscription notification service for ApplyHome (청약홈) an
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-# <h2>PS status</h2>
+# PS status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwp54977)](https://solved.ac/tmdwp54977/)
 
-# <h2>Contact</h2>
+# Contact
 Mail: tmdwp54977@gmail.com<br/>
 Mobile: +82 10 2800 5497<br/>
 Instagram: tmdwp_lee
