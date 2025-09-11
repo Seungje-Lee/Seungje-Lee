@@ -10,11 +10,11 @@ I enjoy identifying real-world problems and using technology to build solutions 
 
 I've improved the subscription notification service for ApplyHome (청약홈) and developed a more intuitive MTS (Mobile Trading System) frame by analyzing and comparing different securities apps to enhance their UI/UX.
 
-# Education
-- Sejong Science High School, 2019 - 2021
-- Undergraduate, Computer and Information Systems Security, Korea University, 2022 - present
-  - Minor in Computer Science, 2023 - present
-- Korean Augmentation to the United States Army, 2023-2025
+# Careers
+- Sejong Science High School, 2019.03 - 2022.02
+- Undergraduate, Computer and Information Systems Security, Korea University, 2022.03 - present
+  - Minor in Computer Science, 2023.09 - present
+- Korean Augmentation to the United States Army, 2023.12 - 2025.06
   
 # Tech Stacks
 
