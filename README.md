@@ -40,6 +40,7 @@ I've improved the subscription notification service for ApplyHome (청약홈) an
 ### 📱 Mobile Dev
 <div>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"></code>
 </div>
 
 ### ☁️ Cloud
