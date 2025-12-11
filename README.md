@@ -1,11 +1,12 @@
 # About me
 - Interest: FE Dev, Secure Software Engineering
-- Main Tech Stacks: React, C++(for PS)
+- Main Tech Stacks: React, React Native, C++(for PS)
+- Career Goals: Fullstack Dev, DevSecOps Engineer
 
 # Educations
-- 🧪 Sejong Science High School, Mar 2019 - Feb 2022
 - 🖥️ Undergraduate, Computer and Information Systems Security, Korea University, Mar 2022 - present
   - Minor in Computer Science, Sep 2023 - present
+- 🧪 Sejong Science High School, Mar 2019 - Feb 2022
 
 # Extracurricular Activities
 - 🐤 Junior FE Member of Google Developers Group on Campus - Korea University Branch, Sep 2025 - present
