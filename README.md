@@ -1,5 +1,5 @@
 # About me
-- Interest: FE Dev, Secure Software Engineering
+- Interest: FE Dev, Secure Software Engineering, Algorithm
 - Main Tech Stacks: React, React Native, C++(for PS)
 - Career Goals: Fullstack Dev, DevSecOps Engineer
 
