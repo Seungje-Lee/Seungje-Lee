@@ -19,6 +19,8 @@ I've improved the subscription notification service for ApplyHome (청약홈) an
 # Extracurricular Activities
 - 🐤 Junior FE Member of Google Developers Group on Campus - Korea University Branch, Sep 2025 - present
 - 🥇 1st Prize winner of 2025 RE:ALThon(REply via AI Machine Learning to improve Campus Life) Hackathon, 23 Nov 2025
+- PS status
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwp54977)](https://solved.ac/tmdwp54977/)
   
 # Tech Stacks
 
@@ -53,9 +55,6 @@ I've improved the subscription notification service for ApplyHome (청약홈) an
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
 </div>
-
-# PS status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdwp54977)](https://solved.ac/tmdwp54977/)
 
 # Contact
 Mail: tmdwp54977@gmail.com<br/>
