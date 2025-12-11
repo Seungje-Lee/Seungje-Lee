@@ -52,4 +52,5 @@
 # Contact
 Mail: tmdwp54977@gmail.com<br/>
 Mobile: +82 10 2800 5497<br/>
+LinkedIn: <a href="https://www.linkedin.com/in/seungje-lee-344639392/">Seungje Lee</a>
 Instagram: tmdwp_lee
