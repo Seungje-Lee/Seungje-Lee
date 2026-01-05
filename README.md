@@ -1,7 +1,7 @@
 # About me
-- Interest: FE Dev, Secure Software Engineering, Algorithm
+- Interest: FE Development, Secure Software Engineering, Algorithm
 - Main Tech Stacks: React, React Native, C++(for PS)
-- Career Goals: Fullstack Dev, Dev(Sec)Ops Engineer
+- Career Goals: Fullstack Developer, Dev(Sec)Ops Engineer
 
 # Educations
 - 🖥️ Undergraduate, Computer and Information Systems Security, Korea University, Mar 2022 - present
