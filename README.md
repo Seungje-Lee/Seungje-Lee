@@ -4,7 +4,7 @@
 - Career Goals: Fullstack Developer, Dev(Sec)Ops Engineer
 
 # Educations
-- 🖥️ Undergraduate, Computer and Information Systems Security, Korea University, Mar 2022 - present
+- 🖥️ B.E., Computer and Information Systems Security, Korea University, Mar 2022 - present
   - Minor in Computer Science, Sep 2023 - present
 - 🧪 Sejong Science High School, Mar 2019 - Feb 2022
 
