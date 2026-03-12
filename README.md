@@ -39,7 +39,6 @@
 ### 💾 Database
 <div>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL">
-	<
 </div>
 
 ### 📱 Mobile Dev
