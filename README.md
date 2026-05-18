@@ -9,7 +9,8 @@
 - 🧪 Sejong Science High School, Mar 2019 - Feb 2022
 
 # Extracurricular Activities
-- 🐤 Junior FE Member of Google Developers Group on Campus - Korea University Branch, Sep 2025 - present
+- 🐔 FE Member of Google Developers Group on Campus - Korea University Branch, Sep 2025 - present
+- 🥉 3rd Prize winner of 2026 Korea x Japan GDGoC: The Bridge Hackathon, 17 Nov 2026
 - 🥇 1st Prize winner of 2025 RE:ALThon(REply via AI Machine Learning to improve Campus Life) Hackathon, 23 Nov 2025
 - 🇺🇸 Korean Augmentation to the United States Army, Dec 2023 - Jun 2025
 - PS status
